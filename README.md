@@ -1,6 +1,8 @@
 <h1 align="center">Hey, I'm Divyam Kakkar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<img align = "right" alt = "coding" width = "400" src = "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDRrdVJXNUl6N082dEpySkk0eV9BRXA4QmYzQXxBQ3Jtc0tsWEpIQ2huejNaWnYwbGF2alREWGNCYzBuZ0Nqc19wMVJ6elFoM19ZZDVEc3dobDFqcXUwdUNqUUp2SkdNSUU0RmVzZllBQVVQdTNBQ1NNWEFDekF5MVY3eTVkMUZmeHNRTF9IODc4dy1ZZ2xkanI0NA&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divyamkakkar-24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyamkakkar-24" height="30" width="40" /></a>
