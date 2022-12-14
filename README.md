@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="600" height="300"/>
+  <img src="https://media2.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="500" height="500"/>
 </div>
 <p align="left">
 <a href="https://linkedin.com/in/divyamkakkar-24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyamkakkar-24" height="30" width="40" /></a>
