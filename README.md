@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Divyam Kakkar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" src="https://media2.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="400" height="300"/>
+<img align="right" alt="coding" src="https://media2.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="350" height="250"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
