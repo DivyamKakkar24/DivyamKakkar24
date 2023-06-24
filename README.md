@@ -1,19 +1,59 @@
-<h1 align="center">Hey, I'm Divyam Kakkar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Hey!</h1>
 
-<img align="right" alt="coding" src="https://media2.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="350" height="250"/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/divyamkakkar-24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyamkakkar-24" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/divyam2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divyam2001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/divyamkakkar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divyamkakkar24" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/divyamkakkar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyamkakkar24" height="30" width="40" /></a>
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Divyam.<br>
+        Combining the art of experimentation with the science of coding.<br>
+        A software engineer on a quest for groundbreaking solutions.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/divyamkakkar-24">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="mailto:kakkardivyam24@gmail.com">
+        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+    </a>
+    <a href="https://leetcode.com/DivyamKakkar24/">
+        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+    </a>
+    <a href="https://www.youtube.com/@DivyamKakkar">
+        <img src="https://img.shields.io/badge/Youtube-white?style=flat-square&logo=Youtube&logoColor=red" alt="Youtube">
+    </a>
+    <a href="https://www.stopstalk.com/user/profile/kakkar_divyam24">
+        <img src="https://img.shields.io/badge/StopStalk-blue?style=flat-square&logo=StopStalk&logoColor=red" alt="StopStalk">
+    </a>
 </p>
-<a href="https://www.youtube.com/c/divyamkakkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="divyamkakkar" height="30" width="40" /></a>
-<a href="https://instagram.com/divyam_kakkar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyam_kakkar24" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/DivyamKakkar24)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/DivyamKakkar24)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/DivyamKakkar24)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/DivyamKakkar24)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/DivyamKakkar24)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyamkakkar24&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="divyamkakkar24" /></p>
+### Technologies & Frameworks
+[![SpringBoot](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot)](https://github.com/DivyamKakkar24)
+[![React](https://img.shields.io/badge/reactJS-black?style=for-the-badge&logo=react)](https://github.com/DivyamKakkar24)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/DivyamKakkar24)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/DivyamKakkar24)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/DivyamKakkar24)
+
+<details>
+<p align="center">
+  <a href="https://github.com/DivyamKakkar24">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivyamKakkar24&theme=transparent" />
+  </a>
+  <a href="https://github.com/DivyamKakkar24">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyamKakkar24&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/DivyamKakkar24">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DivyamKakkar24&theme=transparent" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/DivyamKakkar24">
+    <img src="https://komarev.com/ghpvc/?username=DivyamKakkar24&color=blue&style=flat)" />
+  </a>
+</p>
