@@ -38,6 +38,7 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/DivyamKakkar24)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/DivyamKakkar24)
 [![NODEJS](https://img.shields.io/badge/nodeJS-black?style=for-the-badge&logo=node.js)](https://github.com/DivyamKakkar24)
+[![EXPRESSJS](https://img.shields.io/badge/expressJS-black?style=for-the-badge&logo=express.js)](https://github.com/DivyamKakkar24)
 [![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react)](https://github.com/DivyamKakkar24)
 [![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)](https://github.com/DivyamKakkar24)
 
